@@ -7,7 +7,7 @@ on_stories(
         "image source": "",
         "image_src": "http://www.codeforamerica.org/blog/wp-content/uploads/2014/06/summit-header2.png"
         "box_link": "/summit",
-        "box_text": "Learn about the 2014 Summit"
+        "box_text": "Join us at the #CfASummit"
     }
 
  
